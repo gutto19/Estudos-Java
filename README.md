@@ -11,6 +11,6 @@ Conjunto de atividades realizadas com a liguagem de programação Java. Abaixo e
  
 # Lista de Apps
 
- | [**Áreas de Formas Diferentes**](https://github.com/gutto19/Estudos-Java/tree/main/imagens/AreasDeFormas.png)      | [**Login e Cadastro**](https://github.com/igor1043/Projetos-em-Flutter/tree/main/LoginAndRegisterV1-Flutter-master)     | [**ToDoApp**](https://medium.com/@diegoveloper/flutter-fetching-parsing-json-data-c019ddddaa34)      |
+ | [**Áreas de Formas Diferentes**](https://github.com/gutto19/Estudos-Java/tree/main/imagens/)      | [**Cáculo de Imposto**](https://github.com/gutto19/Estudos-Java/tree/main/imagens)     | [**Transformação de Temperatura**](https://github.com/gutto19/Estudos-Java/tree/main/imagens)      |
 |------------|-------------| -------------|
-|  <img src="https://github.com/igor1043/Projetos-em-Flutter/blob/main/Calculadora_IMC/Img/IMG%20(4).png" width="250"> |  <img src="https://github.com/igor1043/Projetos-em-Flutter/blob/main/LoginAndRegisterV1-Flutter-master/Demo/Screenshot_1.png" width="250"> |    <img src="https://github.com/igor1043/Projetos-em-Flutter/blob/main/ToDoApp-Flutter-master/Demo/Screenshot_1.png" width="250"> |  
+|  <img src="https://github.com/gutto19/Estudos-Java/blob/main/imagens/AreasDeFormas.png" width="250"> |  <img src="https://github.com/gutto19/Estudos-Java/blob/main/imagens/Imposto.png" width="250"> |    <img src="https://github.com/gutto19/Estudos-Java/blob/main/imagens/TemperaturaCemF.png> |  
