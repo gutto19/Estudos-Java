@@ -3,7 +3,7 @@ Atividades relacionadas ao curso de Java que estou fazendo.
 
 Java
 ## Sobre este repositório
-Conjunto de Aplicativos criados com a  framework Flutter. Abaixo existe um quadro no qual você pode visualizar alguns dos meus projetos. Para acessar, basta clicar sobre o Título do aplicaivo que deseja.
+Conjunto de atividades realizadas com a liguagem de programação Java. Abaixo existe um quadro no qual você pode visualizar alguns dessas atividades. Para acessar, basta clicar sobre o Título do aplicaivo que deseja.
 
 ### Autor
 
