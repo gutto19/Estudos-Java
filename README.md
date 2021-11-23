@@ -9,7 +9,7 @@ Conjunto de atividades realizadas com a liguagem de programação Java. Abaixo e
 
 * Gustavo Cardoso Ribeiro
  
-# Lista de Apps
+# Lista de Atividades Realizadas
 
  | [**Áreas de Formas Diferentes**](https://github.com/gutto19/Estudos-Java/tree/main/imagens/)      | [**Cáculo de Imposto**](https://github.com/gutto19/Estudos-Java/tree/main/imagens)     | [**Transformação de Temperatura**](https://github.com/gutto19/Estudos-Java/tree/main/imagens)      |
 |------------|-------------| -------------|
